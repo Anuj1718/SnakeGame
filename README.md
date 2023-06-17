@@ -18,7 +18,7 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
-Start The Game Using Snake.exe File present in snakegame.rar file
+Just click on the SnakeGame.zip file and extract it to a folder and then click on snakegame.exe file to play the game
 
 
 > Cheats
