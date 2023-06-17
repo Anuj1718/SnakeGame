@@ -2,7 +2,7 @@
 This Snake Game is made using Python 3.11 & Pygame Module.
 Hope you will like the game.. and also you can use the code to make your own version of game.
 
-> ### To play the game, simply double click on Snake.exe.
+> ### To play the game, simply download SnakeGame.zip file and extract it.
 
 
 Installing The Pygame Module:
