@@ -18,7 +18,7 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
-Start The Game Using Snake.exe File!
+Start The Game Using Snake.exe File present in snakegame.rar file
 
 
 > Cheats
